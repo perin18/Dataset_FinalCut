@@ -13,7 +13,7 @@ import win32com.client
 flag_test = True
 
 if flag_test:
-    input_path = 'C:\\Users\\45088\\Desktop\\CAD_Macro'
+    input_path = 'C:\\Users\\lenovo\\Desktop\\CG\\macro\\cat'
 else:
     input_path = 'D:\\Dataset\\PFDataset\\Whu_0088_MAC_v00\\00883106'
 

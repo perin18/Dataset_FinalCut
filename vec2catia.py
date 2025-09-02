@@ -5,7 +5,7 @@ import h5py
 
 doc = None
 
-input_path = 'D:\\Dataset\\DeepCAD_data_32\\0000\\00000061.h5'
+input_path = "C:\\Users\\lenovo\\Desktop\\CG\\WHUDataset_FinalCut\\00200015.h5"
 
 f = h5py.File(input_path, 'r')
 if len(f.keys()) > 1:
